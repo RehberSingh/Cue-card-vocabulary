@@ -1,3 +1,3 @@
 f = open("demofile2.txt", "a")
-f.write("Now the file has more content!")
+f.write("See wether changes are published to github or not!")
 f.close()
